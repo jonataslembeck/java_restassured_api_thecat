@@ -1,0 +1,10 @@
+.classpath
+.project
+.settings
+/webapps
+/bin
+/lib
+/src/main
+/target
+/temp
+/conf
